@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/foodmunch-all"
+to = "/food.html"
 status = 200
